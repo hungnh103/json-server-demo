@@ -5,11 +5,14 @@
   "main": "main.js",
   "scripts": {
     "dev": "nodemon main.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "render-data": "node render-data.js"
   },
   "author": "Robert Nguyen",
   "license": "MIT",
   "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "faker": "^6.6.6",
     "json-server": "^0.17.1",
     "nodemon": "^2.0.20"
   }
