@@ -1,0 +1,28 @@
+{
+  "class": [
+    {
+      "id": 1,
+      "totalStudent": 20,
+      "supervising_Teacher": "Nguyen Van A"
+    },
+    {
+      "id": 2,
+      "totalStudent": 10,
+      "supervising_Teacher": "Nguyen Van B"
+    }
+  ],
+  "students": [
+    {
+      "class_id": 1,
+      "id": "hs1",
+      "gender": "male",
+      "medium_score": 6.5
+    },
+    {
+      "class_id": 2,
+      "id": "hs2",
+      "gender": "female",
+      "medium_score": 6
+    }
+  ]
+}
