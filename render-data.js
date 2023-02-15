@@ -18,11 +18,36 @@ const randomClassList = (n) => {
   return classList
 }
 
+const randomStudentList = (classList, studentOfClass) => {
+  const studentList = []
+  if(studentOfClass <= 0) return []
+
+  for(const e of classList) {
+    Array.from(new Array(studentOfClass)).forEach(() => {
+      const student = {
+        class_id: e.id,
+        id: faker.datatype.uuid(),
+        sex: faker.name.gender(),
+        medium_score: Number.parseFloat(faker.datatype.number(10)),
+        avatar: faker.image.avatar(400, 400),
+        name: faker.name.fullName()
+      }
+      studentList.push(student)
+    })
+  }
+
+  return studentList
+}
+
 (() => {
   const classList = randomClassList(2)
+  const studentList = randomStudentList(classList, 3)
+
   const db = {
-    class: classList
+    class: classList,
+    students: studentList
   }
+
   fs.writeFile('./db.json', JSON.stringify(db), () => {
     console.log('Write successfully')
   })
