@@ -40,8 +40,8 @@ const randomStudentList = (classList, studentOfClass) => {
 }
 
 (() => {
-  const classList = randomClassList(2)
-  const studentList = randomStudentList(classList, 3)
+  const classList = randomClassList(10)
+  const studentList = randomStudentList(classList, 5)
 
   const db = {
     class: classList,

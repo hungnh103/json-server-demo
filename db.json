@@ -1,1 +1,466 @@
-{"class":[{"id":"612a44c8-6e8e-4a21-a9e9-5dbd59039ea5","totalStudent":37,"supervising_Teacher":"Klocko Easter","avatar_Teacher":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/381.jpg"},{"id":"46430ff0-308f-4452-8dc0-e1dc9b5379a3","totalStudent":8,"supervising_Teacher":"Sanford Denis","avatar_Teacher":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/950.jpg"}],"students":[{"class_id":"612a44c8-6e8e-4a21-a9e9-5dbd59039ea5","id":"770631cc-e9a7-44a0-a35b-c4d9100caf83","sex":"F2M","medium_score":9,"avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1041.jpg","name":"Jerald Lowe DDS"},{"class_id":"612a44c8-6e8e-4a21-a9e9-5dbd59039ea5","id":"c32316c8-7cc0-465e-878f-94aa555b8a0b","sex":"Trigender","medium_score":6,"avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/245.jpg","name":"Gwendolyn Cummings"},{"class_id":"612a44c8-6e8e-4a21-a9e9-5dbd59039ea5","id":"996d8b6a-59c0-4f07-b47c-9c7e6e9a5ce6","sex":"Two* person","medium_score":2,"avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/951.jpg","name":"Edwin Bayer"},{"class_id":"46430ff0-308f-4452-8dc0-e1dc9b5379a3","id":"29f708e5-8dfc-4208-9842-841c0ac67174","sex":"Other","medium_score":3,"avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/403.jpg","name":"Bob Swaniawski"},{"class_id":"46430ff0-308f-4452-8dc0-e1dc9b5379a3","id":"05477b77-f08d-40c7-b8a3-f1469ba293de","sex":"T* man","medium_score":7,"avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/503.jpg","name":"Ginger Leuschke"},{"class_id":"46430ff0-308f-4452-8dc0-e1dc9b5379a3","id":"b7750458-30b0-4eec-8186-fd88d9668f4b","sex":"Trans man","medium_score":10,"avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/438.jpg","name":"Mathew Stanton"}]}
+{
+  "class": [
+    {
+      "id": "18403214-4f5b-4523-aca3-7197630b7a19",
+      "totalStudent": 16,
+      "supervising_Teacher": "Goldner Adelbert",
+      "avatar_Teacher": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1001.jpg"
+    },
+    {
+      "id": "e7009311-799d-48c0-97f7-1b9fb7c720a8",
+      "totalStudent": 9,
+      "supervising_Teacher": "Kunze Aurore",
+      "avatar_Teacher": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/187.jpg"
+    },
+    {
+      "id": "aea5e7b1-dc19-4980-8425-df3cdc0c868c",
+      "totalStudent": 20,
+      "supervising_Teacher": "Koepp Sedrick",
+      "avatar_Teacher": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/773.jpg"
+    },
+    {
+      "id": "dbb64d43-ec74-4792-9858-fc15ccd0fe7c",
+      "totalStudent": 40,
+      "supervising_Teacher": "Carroll Amelie",
+      "avatar_Teacher": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/83.jpg"
+    },
+    {
+      "id": "ee64580b-5b4f-4397-9784-c55d6ece0a69",
+      "totalStudent": 17,
+      "supervising_Teacher": "Mosciski Newell",
+      "avatar_Teacher": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/269.jpg"
+    },
+    {
+      "id": "9a0ba67e-8cbe-407f-aa7d-4ca5aa60ec5a",
+      "totalStudent": 2,
+      "supervising_Teacher": "Gerhold Brielle",
+      "avatar_Teacher": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/721.jpg"
+    },
+    {
+      "id": "4a56e5ca-7f0f-4cad-a961-4284f5de53fc",
+      "totalStudent": 26,
+      "supervising_Teacher": "Bayer Mathias",
+      "avatar_Teacher": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+    },
+    {
+      "id": "e049f4a6-44bc-4834-afb9-8e76fb25124a",
+      "totalStudent": 25,
+      "supervising_Teacher": "Luettgen Heather",
+      "avatar_Teacher": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/389.jpg"
+    },
+    {
+      "id": "dc53ece7-2cb2-4ae8-a406-46f673b1c7cf",
+      "totalStudent": 39,
+      "supervising_Teacher": "Toy Emmanuel",
+      "avatar_Teacher": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/426.jpg"
+    },
+    {
+      "id": "53326cb4-609f-4a1f-81e6-f5fac5c4fecb",
+      "totalStudent": 9,
+      "supervising_Teacher": "Emard Elissa",
+      "avatar_Teacher": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/753.jpg"
+    }
+  ],
+  "students": [
+    {
+      "class_id": "18403214-4f5b-4523-aca3-7197630b7a19",
+      "id": "4691a4c2-a793-423f-9bb4-4db3e1fa1dff",
+      "sex": "Multigender",
+      "medium_score": 8,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1041.jpg",
+      "name": "Lynn Hane"
+    },
+    {
+      "class_id": "18403214-4f5b-4523-aca3-7197630b7a19",
+      "id": "589ef299-055b-4a99-bd69-db87fdb93305",
+      "sex": "Xenogender",
+      "medium_score": 3,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/881.jpg",
+      "name": "Edmund Weissnat"
+    },
+    {
+      "class_id": "18403214-4f5b-4523-aca3-7197630b7a19",
+      "id": "1c565886-6070-4f02-a27c-e855058bd588",
+      "sex": "Two-spirit person",
+      "medium_score": 0,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/567.jpg",
+      "name": "Eduardo Hilll"
+    },
+    {
+      "class_id": "18403214-4f5b-4523-aca3-7197630b7a19",
+      "id": "ac16224a-4e6e-418a-b1c8-785148971516",
+      "sex": "Intersex woman",
+      "medium_score": 1,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1172.jpg",
+      "name": "Ted Thiel"
+    },
+    {
+      "class_id": "18403214-4f5b-4523-aca3-7197630b7a19",
+      "id": "39bca626-a65c-436d-b55b-a5412a18a4c7",
+      "sex": "Transgender person",
+      "medium_score": 10,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1243.jpg",
+      "name": "Todd Bechtelar"
+    },
+    {
+      "class_id": "e7009311-799d-48c0-97f7-1b9fb7c720a8",
+      "id": "39f8a4b7-1849-4f17-a3f4-ba4d34281b36",
+      "sex": "Intersex man",
+      "medium_score": 7,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/168.jpg",
+      "name": "Laverne Murray"
+    },
+    {
+      "class_id": "e7009311-799d-48c0-97f7-1b9fb7c720a8",
+      "id": "70b519c1-a314-48b4-ad19-28c02b190d69",
+      "sex": "Polygender",
+      "medium_score": 6,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/721.jpg",
+      "name": "Marlene Schultz"
+    },
+    {
+      "class_id": "e7009311-799d-48c0-97f7-1b9fb7c720a8",
+      "id": "ee9214ad-55f9-468e-a096-aba3348fdc41",
+      "sex": "Female to male transsexual man",
+      "medium_score": 10,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/334.jpg",
+      "name": "Mrs. Lucia Ruecker"
+    },
+    {
+      "class_id": "e7009311-799d-48c0-97f7-1b9fb7c720a8",
+      "id": "cd1c4034-7190-46bf-804f-cf07b3d7ee2c",
+      "sex": "Omnigender",
+      "medium_score": 4,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/268.jpg",
+      "name": "Ms. Nora Auer"
+    },
+    {
+      "class_id": "e7009311-799d-48c0-97f7-1b9fb7c720a8",
+      "id": "2c884a80-afb3-4ca1-9058-960cc0fa8772",
+      "sex": "Neutrois",
+      "medium_score": 2,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/812.jpg",
+      "name": "Marcella Heathcote"
+    },
+    {
+      "class_id": "aea5e7b1-dc19-4980-8425-df3cdc0c868c",
+      "id": "735a2d88-1310-4bc1-b77d-4a5a5292c8d6",
+      "sex": "Transexual woman",
+      "medium_score": 5,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/708.jpg",
+      "name": "Anna Hoppe"
+    },
+    {
+      "class_id": "aea5e7b1-dc19-4980-8425-df3cdc0c868c",
+      "id": "57e324af-d308-4406-ac3d-afdbe7f5967c",
+      "sex": "Demi-boy",
+      "medium_score": 2,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1072.jpg",
+      "name": "Charlie Hagenes"
+    },
+    {
+      "class_id": "aea5e7b1-dc19-4980-8425-df3cdc0c868c",
+      "id": "052ed26f-0c74-40ca-9e37-39002baff68e",
+      "sex": "Cisgender woman",
+      "medium_score": 6,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/971.jpg",
+      "name": "Dominic Waelchi"
+    },
+    {
+      "class_id": "aea5e7b1-dc19-4980-8425-df3cdc0c868c",
+      "id": "648539ff-eaee-4f50-a570-fb0cb9996d47",
+      "sex": "Androgyne",
+      "medium_score": 4,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/820.jpg",
+      "name": "Krystal Braun"
+    },
+    {
+      "class_id": "aea5e7b1-dc19-4980-8425-df3cdc0c868c",
+      "id": "9b830856-8230-4921-9d81-87f61faf2c34",
+      "sex": "Intersex person",
+      "medium_score": 9,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1036.jpg",
+      "name": "Sharon Rolfson"
+    },
+    {
+      "class_id": "dbb64d43-ec74-4792-9858-fc15ccd0fe7c",
+      "id": "fa13c3fa-54de-454c-914b-6658908f432e",
+      "sex": "Androgynous",
+      "medium_score": 9,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1142.jpg",
+      "name": "Bennie Muller"
+    },
+    {
+      "class_id": "dbb64d43-ec74-4792-9858-fc15ccd0fe7c",
+      "id": "42068ce5-358e-430e-abbb-d39f95230d5f",
+      "sex": "Male to female trans woman",
+      "medium_score": 4,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/708.jpg",
+      "name": "Clyde Konopelski"
+    },
+    {
+      "class_id": "dbb64d43-ec74-4792-9858-fc15ccd0fe7c",
+      "id": "b4e73bb6-9126-4f8c-b1b4-4ed6ea0455e4",
+      "sex": "Other",
+      "medium_score": 0,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/912.jpg",
+      "name": "Gene Hartmann"
+    },
+    {
+      "class_id": "dbb64d43-ec74-4792-9858-fc15ccd0fe7c",
+      "id": "8944c673-a1c7-4977-bd3b-768d660d8e17",
+      "sex": "Gender neutral",
+      "medium_score": 0,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/465.jpg",
+      "name": "Damon Wilkinson"
+    },
+    {
+      "class_id": "dbb64d43-ec74-4792-9858-fc15ccd0fe7c",
+      "id": "1d823bbe-7fb5-48bc-b905-6f0452a2b0de",
+      "sex": "Transexual male",
+      "medium_score": 8,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/370.jpg",
+      "name": "Shannon Daugherty"
+    },
+    {
+      "class_id": "ee64580b-5b4f-4397-9784-c55d6ece0a69",
+      "id": "08017399-3dbd-4718-bf0c-9f2d4713741f",
+      "sex": "Multigender",
+      "medium_score": 4,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/56.jpg",
+      "name": "Yolanda Braun"
+    },
+    {
+      "class_id": "ee64580b-5b4f-4397-9784-c55d6ece0a69",
+      "id": "8d777a47-6ce2-4747-9331-3beaa1c55c9f",
+      "sex": "Cis",
+      "medium_score": 9,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/641.jpg",
+      "name": "Adrienne Jenkins MD"
+    },
+    {
+      "class_id": "ee64580b-5b4f-4397-9784-c55d6ece0a69",
+      "id": "fb1f9c69-18e1-491c-aa94-babd7aa7c3c9",
+      "sex": "Gender questioning",
+      "medium_score": 1,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/321.jpg",
+      "name": "Javier Cole"
+    },
+    {
+      "class_id": "ee64580b-5b4f-4397-9784-c55d6ece0a69",
+      "id": "af64fe81-1a53-469c-b359-f141bebf0993",
+      "sex": "Female to male transsexual man",
+      "medium_score": 5,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/481.jpg",
+      "name": "Kayla Franecki"
+    },
+    {
+      "class_id": "ee64580b-5b4f-4397-9784-c55d6ece0a69",
+      "id": "e0ad985c-1f03-471a-be8b-f1b1c8b3f83a",
+      "sex": "Transgender female",
+      "medium_score": 6,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/388.jpg",
+      "name": "Earnest Goodwin"
+    },
+    {
+      "class_id": "9a0ba67e-8cbe-407f-aa7d-4ca5aa60ec5a",
+      "id": "deb9e97a-209c-4874-b01d-fbf4324fe289",
+      "sex": "Transexual male",
+      "medium_score": 3,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/991.jpg",
+      "name": "Mrs. Robin Bartell"
+    },
+    {
+      "class_id": "9a0ba67e-8cbe-407f-aa7d-4ca5aa60ec5a",
+      "id": "3910b91c-9bba-4fad-a585-90f118965908",
+      "sex": "Gender nonconforming",
+      "medium_score": 3,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/145.jpg",
+      "name": "Lois Sauer"
+    },
+    {
+      "class_id": "9a0ba67e-8cbe-407f-aa7d-4ca5aa60ec5a",
+      "id": "bfbbeeb2-15e3-498d-b7cb-9c810d1a0f40",
+      "sex": "Neutrois",
+      "medium_score": 0,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/655.jpg",
+      "name": "Don Glover"
+    },
+    {
+      "class_id": "9a0ba67e-8cbe-407f-aa7d-4ca5aa60ec5a",
+      "id": "52e92260-b83e-489f-984d-3dea629a6ea6",
+      "sex": "Omnigender",
+      "medium_score": 3,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/671.jpg",
+      "name": "Doreen Wisozk"
+    },
+    {
+      "class_id": "9a0ba67e-8cbe-407f-aa7d-4ca5aa60ec5a",
+      "id": "9954a3b4-84fc-4932-b62e-cddd40c3a293",
+      "sex": "Transexual person",
+      "medium_score": 8,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1191.jpg",
+      "name": "Rudy Schamberger"
+    },
+    {
+      "class_id": "4a56e5ca-7f0f-4cad-a961-4284f5de53fc",
+      "id": "000a7ea5-4a30-49bc-a1ae-c292af76c780",
+      "sex": "Gender questioning",
+      "medium_score": 5,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/961.jpg",
+      "name": "Winifred Marvin"
+    },
+    {
+      "class_id": "4a56e5ca-7f0f-4cad-a961-4284f5de53fc",
+      "id": "d2e8eea4-28f5-452b-a0fc-8c406427f165",
+      "sex": "Demi-man",
+      "medium_score": 6,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/253.jpg",
+      "name": "Boyd Hammes"
+    },
+    {
+      "class_id": "4a56e5ca-7f0f-4cad-a961-4284f5de53fc",
+      "id": "8dd483fa-7dce-4ff8-90f3-1e1a5a07fc6c",
+      "sex": "Transexual woman",
+      "medium_score": 4,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1034.jpg",
+      "name": "Erik Graham"
+    },
+    {
+      "class_id": "4a56e5ca-7f0f-4cad-a961-4284f5de53fc",
+      "id": "e894872e-a9af-4f80-b5d2-ef069e3cf4dd",
+      "sex": "MTF",
+      "medium_score": 1,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/491.jpg",
+      "name": "Miss Hattie Hyatt"
+    },
+    {
+      "class_id": "4a56e5ca-7f0f-4cad-a961-4284f5de53fc",
+      "id": "9b328fcf-e24a-42b8-b058-84abf6c16c90",
+      "sex": "Transexual man",
+      "medium_score": 8,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/512.jpg",
+      "name": "Roman Jacobs"
+    },
+    {
+      "class_id": "e049f4a6-44bc-4834-afb9-8e76fb25124a",
+      "id": "f2010e44-0b9d-4bca-bad9-1b43e47730d6",
+      "sex": "Cis",
+      "medium_score": 3,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/706.jpg",
+      "name": "Horace Wilkinson"
+    },
+    {
+      "class_id": "e049f4a6-44bc-4834-afb9-8e76fb25124a",
+      "id": "91270242-72bc-447e-9a1a-fbb54e80eebd",
+      "sex": "Intersex man",
+      "medium_score": 2,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/33.jpg",
+      "name": "Mr. Justin Reilly MD"
+    },
+    {
+      "class_id": "e049f4a6-44bc-4834-afb9-8e76fb25124a",
+      "id": "7a0ce06a-e713-45b7-b4e4-93e00468e90b",
+      "sex": "Transexual female",
+      "medium_score": 2,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/950.jpg",
+      "name": "Salvatore Gutkowski"
+    },
+    {
+      "class_id": "e049f4a6-44bc-4834-afb9-8e76fb25124a",
+      "id": "79bd571e-3b11-4fd8-9101-acdb96740e6a",
+      "sex": "Trans male",
+      "medium_score": 3,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/789.jpg",
+      "name": "Lamar Gottlieb"
+    },
+    {
+      "class_id": "e049f4a6-44bc-4834-afb9-8e76fb25124a",
+      "id": "7e2a55ed-78af-4e3e-8f61-1bbe97b2949b",
+      "sex": "F2M",
+      "medium_score": 5,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/607.jpg",
+      "name": "Miss Jacquelyn Schultz"
+    },
+    {
+      "class_id": "dc53ece7-2cb2-4ae8-a406-46f673b1c7cf",
+      "id": "92773410-b6fe-4dd4-8461-16dc81027d9b",
+      "sex": "Polygender",
+      "medium_score": 7,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/294.jpg",
+      "name": "Courtney Simonis I"
+    },
+    {
+      "class_id": "dc53ece7-2cb2-4ae8-a406-46f673b1c7cf",
+      "id": "5e601c82-398b-4c90-be8b-95d5c384584d",
+      "sex": "M2F",
+      "medium_score": 5,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/778.jpg",
+      "name": "Ken Morissette"
+    },
+    {
+      "class_id": "dc53ece7-2cb2-4ae8-a406-46f673b1c7cf",
+      "id": "ef42fe07-1e52-479e-a511-4ef4e51b76a8",
+      "sex": "Hermaphrodite",
+      "medium_score": 1,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/739.jpg",
+      "name": "Conrad Mitchell"
+    },
+    {
+      "class_id": "dc53ece7-2cb2-4ae8-a406-46f673b1c7cf",
+      "id": "d8c3de58-00e1-449e-b47e-c90ec6b6ffe7",
+      "sex": "Other",
+      "medium_score": 2,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg",
+      "name": "Vivian Lehner"
+    },
+    {
+      "class_id": "dc53ece7-2cb2-4ae8-a406-46f673b1c7cf",
+      "id": "6f402e6a-8db3-4a9c-8037-e15e8f9c17a2",
+      "sex": "Agender",
+      "medium_score": 2,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/640.jpg",
+      "name": "Tracy Dicki"
+    },
+    {
+      "class_id": "53326cb4-609f-4a1f-81e6-f5fac5c4fecb",
+      "id": "5aadbe60-7977-4a35-aafb-1db3ae8bcbfc",
+      "sex": "Trigender",
+      "medium_score": 4,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/7.jpg",
+      "name": "Grady Emmerich"
+    },
+    {
+      "class_id": "53326cb4-609f-4a1f-81e6-f5fac5c4fecb",
+      "id": "fefe1a1b-d480-4059-b8e5-c39866b0f2a5",
+      "sex": "Male to female transgender woman",
+      "medium_score": 7,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/542.jpg",
+      "name": "Katrina Schmitt"
+    },
+    {
+      "class_id": "53326cb4-609f-4a1f-81e6-f5fac5c4fecb",
+      "id": "d8d1725d-5cf1-4e6e-a2e8-bdba40ff6a48",
+      "sex": "Gender variant",
+      "medium_score": 5,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1184.jpg",
+      "name": "Jared Bailey"
+    },
+    {
+      "class_id": "53326cb4-609f-4a1f-81e6-f5fac5c4fecb",
+      "id": "eaceef84-0a48-423f-83ca-3fa4fbc54bf1",
+      "sex": "Trans",
+      "medium_score": 10,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1187.jpg",
+      "name": "Johnny Hintz"
+    },
+    {
+      "class_id": "53326cb4-609f-4a1f-81e6-f5fac5c4fecb",
+      "id": "4f5ef685-5d1a-4d72-9e4f-6c9c5d73221c",
+      "sex": "Woman",
+      "medium_score": 0,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1211.jpg",
+      "name": "Levi Streich"
+    }
+  ]
+}
